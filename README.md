@@ -12,6 +12,24 @@ The Shirtify – Custom Apparel Store app does not directly collect, store, or p
 
 However, the app may display third-party websites and services through a WebView. When interacting with these third-party services, users may be required to provide personal information such as email address, shipping details, or payment information. Any information submitted is handled in accordance with the privacy policies of the respective third-party providers.
 
+## Permissions Used
+
+This application only requests the minimum permissions required for normal functionality.
+
+Permissions That May Be Used
+• Internet Access – Allows the app to connect to the internet to load product pages, store content, and external links.
+
+Permissions Not Used
+• Camera
+• Microphone
+• Contacts
+• Location
+• SMS
+• Call Logs
+• Device Storage
+
+This application does not access or collect personal information through device permissions.
+
 ## Third-Party Services
 
 The app may use or link to third-party services that may collect information used to identify you. These services may include, but are not limited to:
