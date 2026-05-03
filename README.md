@@ -116,7 +116,7 @@ The app may contain links to third-party websites. We are not responsible for th
 
 This app is not directed to children under the age of 18, in compliance with Google Play Families Policy.  
 
-We do not knowingly collect personal information from children. If such data is identified, it will be deleted immediately. Parents or guardians may contact us for assistance.  
+We do not knowingly collect personal information from children under the age of 18. If such data is identified, it will be deleted immediately. Parents or guardians may contact us for assistance.  
 
 13. Your Privacy Rights  
 
