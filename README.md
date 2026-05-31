@@ -1,101 +1,240 @@
-PRIVACY POLICY – SHIRTIFY CUSTOM APPAREL STORE
+PRIVACY POLICY
 
-Effective Date: 14 March 2026
+Shirtify Custom Apparel Store
 
-Shirtify Custom Apparel Store is a mobile application developed by Kasanvu Emmanuel. The app serves as a gateway to the Digitees online shopping platform, allowing users to browse products, create accounts, manage orders, and make purchases through the Digitees website.
+Effective Date: 31 May 2026
 
-This Privacy Policy explains how information is handled when using the Shirtify app and the Digitees platform accessible through the app.
+Shirtify Custom Apparel Store is a mobile application developed by Kasanvu Emmanuel. The app provides users with access to custom apparel, personalized clothing, printed merchandise, fashion products, accessories, and related services available through the Digitees platform.
 
-By using this application, you agree to the practices described below.
+The Shirtify Custom Apparel Store app primarily functions as a gateway that allows users to access products and services offered through Digitees. Most account registration, login, profile management, product customization, purchases, payment processing, order fulfillment, shipping, and customer account management are provided through the Digitees website and its authorized service providers.
 
-──────────────────────────────
+This Privacy Policy explains how information is handled when you use the Shirtify Custom Apparel Store app and the Digitees services accessible through the app.
 
-1. HOW THE SHIRTIFY APP OPERATES
-   ──────────────────────────────
+By accessing or using Shirtify Custom Apparel Store, you agree to the practices described in this Privacy Policy.
 
-The Shirtify app primarily functions as an interface that provides access to the Digitees online shopping platform.
+---
 
-Most account registration, login, order processing, payment processing, and customer account functionality are provided through the Digitees website accessible within the app.
+1. HOW THE SHIRTIFY CUSTOM APPAREL STORE APP OPERATES
 
-While Google Play Data Safety disclosures may describe certain information as collected through the app experience, much of this information is collected and processed through the Digitees platform when users interact with website features available inside the app.
+Shirtify Custom Apparel Store serves as an interface that connects users to custom apparel and merchandise offered through the Digitees platform.
 
-──────────────────────────────
-2. INFORMATION COLLECTED THROUGH THE DIGITEES PLATFORM
-──────────────────────────────
+When users create accounts, sign in, customize products, place orders, submit payment information, track purchases, manage profiles, or communicate with customer support, these activities are generally processed through Digitees and its authorized partners.
 
-When users create accounts, sign in, place orders, make payments, or interact with e-commerce features through the Digitees platform, the following information may be collected and processed:
+While Google Play Data Safety disclosures may indicate that certain information is collected through the app experience, much of this information is collected and processed through Digitees when users interact with website features available within the app.
 
-• Email Address – for account registration, authentication, order communication, account management, security, and customer support
+---
 
-• User ID / Username – for account identification, login functionality, account management, and security purposes
+2. PERMISSIONS USED
 
-• Full Name – for account and order processing
+The app requests only permissions necessary for normal functionality and compliance with Google Play requirements.
 
-• Shipping Address – for product delivery
+Internet Access (android.permission.INTERNET)
 
-• Phone Number – for delivery coordination, account verification, and customer support
+This permission is required to:
 
-• Purchase Information – including order history, transaction records, and purchase-related activities
+- Load website content
+- Display products and services
+- Connect to Digitees
+- Enable secure communication
+- Process user requests
+- Access online resources
 
-• Payment Information – payment details entered during purchases and processed securely through Digitees and its authorized payment service providers
+Permissions Not Used
+
+Shirtify Custom Apparel Store does not request or access:
+
+- Camera
+- Microphone
+- Contacts
+- SMS or MMS
+- Call Logs
+- GPS Location
+- Background Location
+- Bluetooth
+- Device Storage or Files
+
+The app does not collect personal information through device permissions.
+
+---
+
+3. INFORMATION COLLECTED THROUGH DIGITEES
+
+Shirtify Custom Apparel Store does not directly collect, store, or maintain customer information on its own servers.
+
+However, when users interact with Digitees through the app, Digitees and its authorized service providers may collect information including:
+
+- Email address
+- Username
+- Full name
+- User account information
+- Billing information
+- Shipping information
+- Purchase history
+- Transaction information
+- Payment information
+- Product customization information
+- Customer support communications
 
 This information may be used for:
 
-• App and website functionality
-• Account management
-• Order processing and fulfillment
-• Payment processing
-• Fraud prevention, security, and compliance
-• Customer support and communication
+- Account registration
+- User authentication
+- Account management
+- Product customization
+- Order processing
+- Payment processing
+- Shipping and delivery
+- Customer support
+- Fraud prevention
+- Security monitoring
+- Legal compliance
+- Service improvement
 
-──────────────────────────────
-3. DATA SHARING
-──────────────────────────────
+Users should review Digitees' Privacy Policy for detailed information regarding how personal data is collected, processed, stored, and protected.
 
-Information provided through the Digitees platform may be shared with authorized service providers when necessary to:
+---
 
-• Process payments
-• Fulfill product orders
-• Prevent fraud and unauthorized activity
-• Maintain account security
-• Provide customer support
-• Comply with legal obligations
-
-These service providers may include payment processors, delivery providers, hosting providers, and other operational partners used by the Digitees platform.
-
-──────────────────────────────
 4. THIRD-PARTY SERVICES
-──────────────────────────────
 
-The Shirtify app may provide access to or interact with third-party services, including:
+The app may rely on third-party services that may collect information as part of providing their services.
 
-• Digitees Website
-• Payment processors used by Digitees
-• Delivery and logistics service providers
-• Other services necessary for e-commerce operations
+These services may include:
 
-These services operate under their own privacy policies and terms of service.
+- Digitees
+- Google Play Services
+- Payment processors
+- Shipping providers
+- Hosting providers
+- Analytics providers
+- Security providers
+- Customer support services
 
-──────────────────────────────
-5. DATA SECURITY
-──────────────────────────────
+Each third-party service operates under its own Privacy Policy and Terms of Service.
 
-Data transmitted through the Shirtify app and the Digitees platform is protected using secure connections and encryption in transit where applicable.
+Users are encouraged to review those policies before using such services.
 
-Payment processing, order management, and related e-commerce services are handled through the Digitees platform and its authorized service providers.
+---
 
-──────────────────────────────
-6. DATA RETENTION AND DELETION
-──────────────────────────────
+5. DATA SHARING
 
-Information is retained only for as long as necessary to provide account services, process orders, maintain security, comply with legal obligations, and support business operations.
+Information collected through Digitees may be shared with authorized third parties when necessary to:
 
-Users may request:
+- Process payments
+- Complete purchases
+- Produce customized products
+- Deliver products
+- Arrange shipping
+- Provide customer support
+- Prevent fraud
+- Protect user accounts
+- Comply with legal obligations
+- Maintain platform operations
 
-• Deletion of their account and associated data
-• Deletion of specific personal data without deleting their account
+Shirtify Custom Apparel Store does not sell personal information to third parties.
 
-Data deletion requests can be submitted at:
+---
+
+6. LOG DATA
+
+In the event of an app error or technical issue, diagnostic information may be collected automatically by third-party services.
+
+This information may include:
+
+- IP address
+- Device model
+- Device name
+- Operating system version
+- Browser information
+- App configuration
+- Date and time of use
+- Technical diagnostic data
+
+This information is used to improve reliability, security, troubleshooting, and overall service performance.
+
+---
+
+7. COOKIES AND TRACKING TECHNOLOGIES
+
+Shirtify Custom Apparel Store does not directly use cookies.
+
+However, websites and services accessed through the app, including Digitees, may use cookies and similar technologies to:
+
+- Remember user preferences
+- Maintain login sessions
+- Support account functionality
+- Improve user experience
+- Analyze website performance
+- Provide security features
+
+Users may manage cookie settings through their browser preferences where applicable.
+
+---
+
+8. SERVICE PROVIDERS
+
+We may rely on third-party companies and individuals to:
+
+- Operate services
+- Process transactions
+- Manufacture customized products
+- Deliver products
+- Ship orders
+- Provide customer support
+- Monitor performance
+- Analyze usage
+- Improve security
+- Maintain infrastructure
+
+These providers may have access to information necessary to perform their services and are expected to protect such information appropriately.
+
+---
+
+9. DATA SECURITY
+
+Reasonable administrative, technical, and organizational measures are used by service providers to help protect information transmitted through the app and associated services.
+
+However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+Users provide information at their own discretion and risk.
+
+---
+
+10. EXTERNAL LINKS DISCLAIMER
+
+The app may contain links to third-party websites and services.
+
+We are not responsible for:
+
+- Third-party website content
+- Third-party privacy practices
+- External services
+- Data collection activities performed by third parties
+
+Users should review the Privacy Policies of any external websites they visit.
+
+---
+
+11. DATA RETENTION
+
+Shirtify Custom Apparel Store does not directly retain personal information.
+
+Information collected through Digitees is retained according to Digitees' policies, operational requirements, legal obligations, and applicable regulations.
+
+---
+
+12. DATA DELETION
+
+Users may request either of the following:
+
+Account Deletion
+
+Users may request deletion of their account and associated personal information where applicable.
+
+Partial Data Deletion
+
+Users may request deletion of specific personal information without deleting their entire account, where permitted.
+
+Data deletion requests can be submitted through the following page:
 
 https://keizahemmanuel7.github.io/shirtify-data-deletion/
 
@@ -103,26 +242,73 @@ Or by contacting:
 
 Email: keizahemmanuel4@gmail.com
 
-──────────────────────────────
-7. CHILDREN'S PRIVACY
-──────────────────────────────
+Requests relating to information processed by Digitees may also need to be directed to Digitees or the relevant service provider responsible for processing that information.
 
-Shirtify Custom Apparel Store is intended for users aged 18 and above.
+For additional information regarding available deletion options, users should review the Data Deletion Request page listed above.
 
-This app is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13.
+---
 
-If we become aware that a child under 13 has provided personal information, we will take immediate steps to delete such data.
+13. USER RIGHTS AND CHOICES
 
-If you are a parent or guardian and believe that your child has provided personal information, please contact us so we can take appropriate action.
+Depending on applicable laws, users may have rights to:
 
-──────────────────────────────
-8. CONTACT INFORMATION
-──────────────────────────────
+- Access personal information
+- Correct inaccurate information
+- Request deletion of information
+- Restrict certain processing activities
+- Object to processing
+- Withdraw consent where applicable
 
-If you have any questions or concerns about this Privacy Policy, please contact:
+Requests relating to information processed through Digitees should be directed to the relevant service provider where appropriate.
 
-Email: keizahemmanuel4@gmail.com
+---
+
+14. CHILDREN'S PRIVACY
+
+Shirtify Custom Apparel Store is intended for users who are at least 18 years old.
+
+The app is not directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children under 13.
+
+If we become aware that such information has been provided, reasonable steps will be taken to facilitate its removal.
+
+Parents or guardians who believe a child has submitted personal information may contact us.
+
+---
+
+15. GOOGLE PLAY COMPLIANCE STATEMENT
+
+Shirtify Custom Apparel Store is designed to comply with applicable Google Play Developer Program Policies, including requirements relating to:
+
+- User privacy
+- Data transparency
+- Permission disclosure
+- Data security
+- User protection
+
+Google Play Data Safety disclosures are provided to help users understand how information may be handled through the overall app experience, including information collected and processed by integrated third-party services such as Digitees.
+
+---
+
+16. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time.
+
+Any updates will be posted within the app, through the app listing, or by other appropriate means.
+
+Users are encouraged to review this Privacy Policy periodically.
+
+Continued use of the app after changes become effective constitutes acceptance of the updated Privacy Policy.
+
+---
+
+17. CONTACT INFORMATION
+
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
 
 Developer: Kasanvu Emmanuel
+
+Email: keizahemmanuel4@gmail.com
 
 Location: Wakiso, Uganda
